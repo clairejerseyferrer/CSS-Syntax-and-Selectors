@@ -1,0 +1,37 @@
+* {
+    font-family: 'Times New Roman';
+}
+
+header {
+    background-color: #ADD8E6;
+}
+
+header h1 {
+    color: #000080;
+}
+
+nav {
+    border-bottom:2px solid black;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #E2D6DC;
+}
+
+footer {
+    text-align: center;
+}
+
+.box {
+    background-color: #FFD1DC;
+    padding: 20px;
+}
